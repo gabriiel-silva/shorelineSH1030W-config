@@ -1,5 +1,4 @@
 from playwright.sync_api import sync_playwright
-import time
 import tkinter as tk
 from tkinter import messagebox
 
